@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SpatialLab",
+	"Description": "A series of tests designed to run against a SpatialOS project",
+	"Category": "SpatialOS",
+	"CreatedBy": "George Rolfe",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SpatialLab",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
