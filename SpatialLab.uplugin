@@ -13,11 +13,17 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"Installed": false,
-	"Modules": [
-		{
-			"Name": "SpatialLab",
-			"Type": "Developer",
-			"LoadingPhase": "Default"
-		}
-	]
+  "Modules": [
+    {
+      "Name": "SpatialLab",
+      "Type": "Developer",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+      {
+        "Name": "SpatialGDK",
+        "Enabled": true 
+      }
+  ] 
 }

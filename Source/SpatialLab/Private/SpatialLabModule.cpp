@@ -1,6 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-
-#include "SpatialLab.h"
+#include "SpatialLabModule.h"
 
 #define LOCTEXT_NAMESPACE "FSpatialLabModule"
 
